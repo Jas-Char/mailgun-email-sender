@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
 
 @Configuration
-@PropertySource("sender.properties")
+@PropertySource("${SENDER_CONFIG}")
 public class MailgunEmailSenderConfig {
 
 	@Value("${mailgun.email.htmlBodyFile}")
