@@ -26,7 +26,6 @@ import uk.co.jaschar.email.mailgun.helpers.EmailAttachment;
 
 /**
  * <h3>Mailgun API Interface</h3>
- * (c) 2017 Sport Trades Ltd
  * 
  * @author Jas Rajasansir
  * @version 1.0.0

@@ -6,7 +6,6 @@ import com.google.api.client.http.MultipartContent;
 
 /**
  * <h3>Google API Client Builders for Mailgun API</h3>
- * (c) 2017 Sport Trades Ltd
  * 
  * @author Jas Rajasansir
  * @version 1.0.0
